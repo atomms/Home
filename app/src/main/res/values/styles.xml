@@ -1,12 +1,21 @@
 <resources>
 
     <!-- Base application theme. -->
+<style name="MyTheme" parent="AppTheme">
+<!--    modifico este tema en lo que ponga aquí y lo que no ponga es igual que en el parent-->
+</style>
 
     <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MyButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">88dp</item>
+        <item name="android:textSize">16sp</item>
     </style>
 
 </resources>
