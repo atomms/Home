@@ -14,7 +14,7 @@
 
     <style name="ButtonStraight" parent="Widget.MaterialComponents.Button">
         <item name="backgroundTint">@color/statelist</item>
-    </style>
+    </style>3
 
     <style name="ButtonOutlined" parent="Widget.MaterialComponents.Button.OutlinedButton">
         <item name="android:textColor">@color/colorAccent</item>

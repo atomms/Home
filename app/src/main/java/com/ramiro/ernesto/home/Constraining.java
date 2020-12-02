@@ -4,6 +4,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+/**
+ * first class
+ * @author ernesto
+ */
 public class Constraining extends AppCompatActivity {
 
     @Override
